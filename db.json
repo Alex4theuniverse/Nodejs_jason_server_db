@@ -1,0 +1,97 @@
+{
+  "profesores": [
+    {
+      "nombre": "albert",
+      "apellido": "einsten",
+      "cursos": [
+        {
+          "nombre": "matemática"
+        },
+        {
+          "nombre": "fisica"
+        },
+        {
+          "nombre": "fisica cuantica"
+        }
+      ],
+      "id": "cd93"
+    },
+    {
+      "id": "e89c",
+      "nombre": "Alan",
+      "apellido": "garcia",
+      "cursos": [
+        {
+          "nombre": "oratoria"
+        },
+        {
+          "nombre": "comunicaión"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "pepe",
+      "apellido": "chavez",
+      "promedio": 16,
+      "id": "53d5"
+    },
+    {
+      "id": "b2c1",
+      "nombre": "carla",
+      "apellido": "Gonzales",
+      "promedio": 11.5
+    },
+    {
+      "id": "52d5",
+      "nombre": "Tito",
+      "apellido": "Nieves",
+      "promedio": 19.5
+    },
+    {
+      "id": "628b",
+      "nombre": "Arnold",
+      "apellido": "Exterminador",
+      "promedio": 20
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "exp cliente",
+      "duracion": 3,
+      "Dificultad": "intermedia",
+      "id": "0bc1"
+    },
+    {
+      "nombre": "desarrollo de software y aplicaicones",
+      "duracion": 3,
+      "Dificultad": "intermedia",
+      "id": "4753"
+    },
+    {
+      "nombre": "Exp Fromativas de trabajo",
+      "duracion": 2,
+      "Dificultad": "Dificil",
+      "id": "a3dc"
+    },
+    {
+      "id": "f01b",
+      "nombre": "ALGORITMOS",
+      "duracion": 4,
+      "Dificultad": "Alta"
+    },
+    {
+      "id": "5f50",
+      "nombre": "INFRAESTRUCTURA SOFTWARE",
+      "duracion": 3,
+      "Dificultad": "Intermedia"
+    },
+    {
+      "id": "ce54",
+      "nombre": "HERRAMIENTAS DIGITALES",
+      "duracion": 2,
+      "Dificultad": "Intermedia"
+    }
+  ]
+}
