@@ -1,17 +1,15 @@
 {
-  "profesores": [
+  "RegistroUsuarios": [
     {
       "nombre": "albert",
       "apellido": "einsten",
-      "cursos": [
+      "correo": "alebert_dias@gmail.com",
+      "hobbie": [
         {
-          "nombre": "matemática"
+          "nombre": "cantar"
         },
         {
-          "nombre": "fisica"
-        },
-        {
-          "nombre": "fisica cuantica"
+          "nombre": "jugar Futbol"
         }
       ],
       "id": "cd93"
@@ -20,12 +18,120 @@
       "id": "e89c",
       "nombre": "Alan",
       "apellido": "garcia",
-      "cursos": [
+      "correo": "alan_Perez@gmail.com",
+      "hobie": [
         {
           "nombre": "oratoria"
         },
         {
           "nombre": "comunicaión"
+        }
+      ]
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "correo": "maria.gonzalez@example.com",
+      "hobbie": [
+        {
+          "nombre": "pintar"
+        },
+        {
+          "nombre": "tocar guitarra"
+        }
+      ],
+      "id": ""
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Martínez",
+      "correo": "juan.martinez@example.com",
+      "hobbie": [
+        {
+          "nombre": "cocinar"
+        },
+        {
+          "nombre": "montañismo"
+        }
+      ],
+      "id": ""
+    },
+    {
+      "nombre": "Sophia",
+      "apellido": "Lee",
+      "correo": "sophia.lee@example.com",
+      "hobbie": [
+        {
+          "nombre": "leer"
+        },
+        {
+          "nombre": "patinar sobre hielo"
+        }
+      ],
+      "id": ""
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Sánchez",
+      "correo": "carlos.sanchez@example.com",
+      "hobbie": [
+        {
+          "nombre": "jardinería"
+        },
+        {
+          "nombre": "bailar salsa"
+        }
+      ]
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Rodríguez",
+      "correo": "laura.rodriguez@example.com",
+      "hobbie": [
+        {
+          "nombre": "escribir poesía"
+        },
+        {
+          "nombre": "practicar yoga"
+        }
+      ]
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Pérez",
+      "correo": "diego.perez@example.com",
+      "hobbie": [
+        {
+          "nombre": "tocar piano"
+        },
+        {
+          "nombre": "nadar"
+        }
+      ]
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "García",
+      "correo": "ana.garcia@example.com",
+      "hobbie": [
+        {
+          "nombre": "senderismo"
+        },
+        {
+          "nombre": "dibujar"
+        }
+      ]
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "López",
+      "correo": "pedro.lopez@example.com",
+      "hobbie": [
+        {
+          "nombre": "cocinar"
+        },
+        {
+          "nombre": "tocar batería"
         }
       ]
     }
